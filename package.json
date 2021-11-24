@@ -1,0 +1,11 @@
+{
+  "name": "serverless-intro-workshop",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.85",
+    "aws-sdk": "^2.1035.0"
+  },
+  "scripts": {
+    "deploy": "serverless deploy"
+  }
+}
