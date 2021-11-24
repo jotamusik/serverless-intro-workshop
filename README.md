@@ -8,7 +8,7 @@ necesario para continuar en cada paso.
 
 _Rama : Paso_
 
-- **step_1_simple_hello_world** : Lambda simple con 'Hola mundo!'
+- **[step_1_simple_hello_world](https://github.com/jotamusik/serverless-intro-workshop/tree/step_1_simple_hello_world)** : Lambda simple con 'Hola mundo!'
 - **step_2_cron_hello_world** : Lambda con expresión cron y logs
 - **step_3_database_user_names** : Lambda con inserción a base de datos a través de query param
 - **step_4_framework_hello_world** : Proyecto de 'Hola mundo!' usando Serverless Framework
