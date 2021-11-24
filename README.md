@@ -14,3 +14,6 @@ _Rama : Paso_
 - **[step_4_database_user_names](https://github.com/jotamusik/serverless-intro-workshop/tree/step_4_database_user_names)** : Lambda con inserción a base de datos a través de query param
 - **[step_5_framework_hello_world](https://github.com/jotamusik/serverless-intro-workshop/tree/step_5_framework_hello_world)** : Proyecto de 'Hola mundo!' usando Serverless Framework
 - **[step_6_framework_database](https://github.com/jotamusik/serverless-intro-workshop/tree/step_6_framework_database)** : Proyecto de inserción de ususarios por query param usando Serverless Framework
+
+## Proyecto de 'Hola mundo!' usando Serverless Framework
+En este paso, tenemos un ejemplo de proyecto completo generado con Serverless Framework. El proyecto solo contiene una lambda que responde con Hola mundo!

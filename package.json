@@ -1,0 +1,9 @@
+{
+  "name": "serverless-intro-workshop",
+  "version": "1.0.0",
+  "dependencies": {
+  },
+  "scripts": {
+    "deploy": "sls deploy"
+  }
+}
