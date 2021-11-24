@@ -1,0 +1,2 @@
+expresion1: rate(2 min)
+expresion2: cron(0/2 * * * ? *)

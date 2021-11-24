@@ -14,3 +14,7 @@ _Rama : Paso_
 - **[step_4_database_user_names](https://github.com/jotamusik/serverless-intro-workshop/tree/step_4_database_user_names)** : Lambda con inserción a base de datos a través de query param
 - **[step_5_framework_hello_world](https://github.com/jotamusik/serverless-intro-workshop/tree/step_5_framework_hello_world)** : Proyecto de 'Hola mundo!' usando Serverless Framework
 - **[step_6_framework_database](https://github.com/jotamusik/serverless-intro-workshop/tree/step_6_framework_database)** : Proyecto de inserción de ususarios por query param usando Serverless Framework
+
+## Lambda simple que imprime por log Hola mundo! cada dos minutos
+En este paso tenemos el código que tendremos que poner en la funcion en la consola de AWS en el fichero llamado [simpleApiHelloName.js](./src/simpleHelloWorld.js) y 
+las posibles expresiones de crontab en el fichero [cronExpression.txt](./src/cronExpression.txt).
