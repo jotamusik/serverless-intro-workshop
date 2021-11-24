@@ -13,3 +13,8 @@ _Rama : Paso_
 - **step_3_database_user_names** : Lambda con inserción a base de datos a través de query param
 - **step_4_framework_hello_world** : Proyecto de 'Hola mundo!' usando Serverless Framework
 - **step_5_framework_database** : Proyecto de inserción de ususarios por query param usando Serverless Framework
+
+## Lambda simple con 'Hola mundo!'
+
+En este paso tenemos el código que tendremos que poner en la funcion
+en la consola de AWS en el fichero llamado [simpleHelloWorld.js](./src/simpleHelloWorld.js).
